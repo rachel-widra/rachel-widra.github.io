@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Girls Make I.T. Better"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Hands-on introduction to economics and statistical programming geared towards middle school girls"
+venue: "Federal Reserve Bank of Cleveland"
+date: Spring 2021
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed an hour-long program aimed at getting middle school girls interested in careers in economics. We covered basic econometrics and statistical programming in R, and discussed what careers in economics can look like. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Watch the lecture here] (https://www.youtube.com/watch?v=ZULC-wuxm1g&list=PLZlYbXN8aevEYQbuQ8p0-dS5zvUN_X25p&index=8)

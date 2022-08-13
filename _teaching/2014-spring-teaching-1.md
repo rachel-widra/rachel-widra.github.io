@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Research Coding Camp"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Introduction to statistical programming and econometrics in R for high school students"
+venue: "Federal Reserve Bank of Cleveland"
+date: Summer 2021 and 2022
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed a new program to teach high school students an introduction to economics, statistics, and the research process. The course covered basic economic theory, data cleaning and visualization, hypothesis testing, and linear regression. 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
